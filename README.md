@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Gopalsingh Tanwar
 
+---
+
 💻 **Information Technology | Data Analyst**  
 📊 **Data Visualization | Power BI | Tableau | Excel**  
 🐍 Python • SQL • GitHub • DAX • Power Query  
