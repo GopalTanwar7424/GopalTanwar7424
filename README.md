@@ -39,12 +39,6 @@ Hi, I'm **Gopalsingh Tanwar**
 
 ---
 
-## 📊 GitHub Stats
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GopalTanwar7424&layout=compact&theme=tokyonight)
-
----
-
-## 💬 Let's connect and grow together — one repo at a time.
+## 💬 Let's connect and grow together — 
 *You bring the snacks 🍪, I'll bring the code 👨‍💻*
